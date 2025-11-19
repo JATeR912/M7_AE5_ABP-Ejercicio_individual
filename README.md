@@ -20,7 +20,7 @@ class Producto(models.Model):
 ### Flujo de trabajo recomendado
 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/JATeR912/M7_AE5_ABP-Ejercicio_individual
 cd nombre_proyecto
 ```
 2. Crear y activar el entorno virtual
